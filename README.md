@@ -23,4 +23,4 @@ User registration, login, and profile update with role-based access (student, re
 - **Application routes:** `/api/applications` — apply for jobs, get applied jobs, update application status  
 - **Company routes:** `/api/companies` — register company, get details, update company
 
-- 
+  
